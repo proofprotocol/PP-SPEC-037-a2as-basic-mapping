@@ -5,7 +5,7 @@
 | Status | DRAFT v0.1 |
 | Author | Craig Ellrod, Nebulonium, Inc. (dba HACKERverse®) |
 | Date | October 1, 2026 |
-| License | CC BY-ND 4.0 |
+| License | CC BY 4.0 |
 | Maps to | A2AS BASIC |
 | Series | Proof Protocol Framework Mapping Specifications |
 
@@ -107,7 +107,7 @@ A2AS BASIC is external work. Its names, specifications, implementations, and exp
 
 At the time this mapping was prepared, an open-content license for all referenced A2AS BASIC specification material had not been independently verified. Accordingly, this mapping uses **reference-only treatment**: upstream concepts may be identified for interoperability, but upstream prose, diagrams, tables, or other expressive material should not be copied unless its applicable license permits that use.
 
-This Proof Protocol mapping is independently authored and licensed under **CC BY-ND 4.0**.
+This Proof Protocol mapping is independently authored and licensed under **CC BY 4.0**.
 
 ## 11. Versioning
 
@@ -115,4 +115,4 @@ This mapping is versioned independently of A2AS BASIC. Material upstream changes
 
 ---
 
-*Proof Protocol · proofprotocol.io · CC BY-ND 4.0*
+*Proof Protocol · proofprotocol.io · CC BY 4.0*
