@@ -107,7 +107,7 @@ A2AS BASIC is external work. Its names, specifications, implementations, and exp
 
 At the time this mapping was prepared, an open-content license for all referenced A2AS BASIC specification material had not been independently verified. Accordingly, this mapping uses **reference-only treatment**: upstream concepts may be identified for interoperability, but upstream prose, diagrams, tables, or other expressive material should not be copied unless its applicable license permits that use.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ## 11. Versioning
 
